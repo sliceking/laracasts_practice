@@ -1,5 +1,6 @@
 <?php
 
-require 'vendor/autoload.php';
+function signUp($subscription)
+{
 
-require 'ex.php';
+}
